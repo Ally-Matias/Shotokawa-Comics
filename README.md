@@ -1,4 +1,4 @@
-<img align="center" src="./src/assets/logo.png" />
+<img align="center" src="logo.png" />
 
 <h1 align="center">Shotokawa</h1>
 
