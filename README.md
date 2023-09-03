@@ -22,7 +22,7 @@
 ### 📌 Visão Geral do Projeto:
 
 <p>
-Estamos felizes em compartilhar o Projeto Shotokawa, um desafio de freelancer que abraçamos com dedicação. Nós definimos um acordo onde nos comprometemos a entregar uma solução funcional para o cliente, enquanto os códigos do projeto permanece confidencial, mas disponível alguns detalhes e divulgações do trabalho para enriquecer nosso portfólio. O proprietário do projeto está alinhado com esses termos, abrindo portas para futuras colaborações.
+Estamos felizes em compartilhar o Projeto Shotokawa, um desafio de freelancer que abraçamos com dedicação. Estabelecemos um acordo onde nos comprometemos a fornecer uma solução funcional ao cliente, mantendo o código-fonte privado, ao mesmo tempo em que disponibilizamos informações e os detalhes da aplicação para apreciação. Em breve, a própria aplicação estará pronta para ser lançada publicamente, enriquecendo significativamente nosso portfólio. O proprietário do projeto está alinhado com esses termos, abrindo portas para futuras colaborações.
 </p>
 
 ### 📌 O que é o Shotokawa?:
