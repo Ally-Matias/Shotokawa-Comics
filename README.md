@@ -20,7 +20,7 @@
 
 ## 🔴 Clique na imagem para ver o vídeo do projeto:
 
-[![Shotokawa Comics](https://github.com/Ally-Matias/Shotokawa-Comics/blob/bf318a2b9edf5ec6db93db9e546fd07ee7583ecb/Screenshot%20from%202023-09-07%2013-44-54.png)]([https://youtu.be/biLjNwEFt6Y](https://youtu.be/EYqmTSVOrbc))
+[![Shotokawa Comics](https://github.com/Ally-Matias/Shotokawa-Comics/blob/bf318a2b9edf5ec6db93db9e546fd07ee7583ecb/Screenshot%20from%202023-09-07%2013-44-54.png)]([https://youtu.be/EYqmTSVOrbc])
 
 
 <br>
