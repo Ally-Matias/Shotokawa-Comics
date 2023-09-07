@@ -22,6 +22,7 @@
 
 [![Shotokawa Comics](https://github.com/Ally-Matias/Shotokawa-Comics/blob/bf318a2b9edf5ec6db93db9e546fd07ee7583ecb/Screenshot%20from%202023-09-07%2013-44-54.png)](https://youtu.be/EYqmTSVOrbc)
 
+> OBS: As obras usadas para construção do MVP não são as obras que vão ficar na plataforma, foram usadas apenas como exemplo para a construção da aplicação.
 
 <br>
 
