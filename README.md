@@ -16,6 +16,12 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20EM%20andamento&color=yellow&style=for-the-badge" />
 </p>
 
+<br>
+
+## 🔴 Clique na imagem para ver o vídeo do projeto:
+
+[![Shotokawa Comics](https://github.com/Ally-Matias/Task-Flow/blob/master/Frontend/src/assets/img/Screenshot%20from%202023-07-12%2014-29-28.png)]([https://youtu.be/biLjNwEFt6Y](https://youtu.be/EYqmTSVOrbc))
+
 
 <br>
 
